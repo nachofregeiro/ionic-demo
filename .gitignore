@@ -1,0 +1,9 @@
+node_modules/
+www/build/
+platforms/
+plugins/
+.vscode/
+.DS_Store
+app/config/settings.ts
+coverage/
+www/img/
